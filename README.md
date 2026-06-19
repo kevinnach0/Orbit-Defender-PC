@@ -21,8 +21,9 @@ A 2D game built with **Raylib** and **C++**. You control a circle with an orbiti
 ```
 project/
 ├── main.cpp      # Main game loop, input, physics, render
-└── Game.hpp              # AttackPlayer class declaration
-└── Game.cpp              # Attack logic, hitbox collision, push effect
+├── Game.cpp      # Attack logic, hitbox collision, push effect
+└── Game.hpp      # AttackPlayer class declaration
+```
 
 ---
 
